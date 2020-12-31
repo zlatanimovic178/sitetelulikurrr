@@ -1,0 +1,4 @@
+baseURL = "https://downloadwallpaper11.vercel.app"
+languageCode = "en-us"
+title = "Download Wallpapers for PC"
+theme = "hugo-theme-minos"
